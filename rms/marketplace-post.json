@@ -5,6 +5,5 @@
   "description": "Auto Posting Marketplace",
   "icon": "riGlobalLine",
   "workflow": "Auto Posting Marketplace 1.4.json",
-  "enabled": true,
-  "repository": "online"
-}
+  "enabled": true
+  }
