@@ -1,1 +1,9 @@
-Auto Posting Marketplace 1.4
+{
+  "id": "marketplace-post",
+  "name": "Auto Posting Marketplace",
+  "category": "Facebook Marketplace",
+  "description": "Auto Posting Marketplace",
+  "icon": "riGlobalLine",
+  "workflow": "Auto Posting Marketplace 1.4.json",
+  "enabled": true
+  }
