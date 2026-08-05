@@ -1,27 +1,54 @@
 {
-  "version": 1,
+  "repositoryVersion": "1.0.0",
 
   "robots": [
-
     {
-      "id":"facebook-marketplace",
-
-      "name":"Facebook Marketplace",
-
-      "version":"1.0",
-
-      "file":"robots/facebook-marketplace.json"
+      "id": "marketplace-post"
     },
-
     {
-      "id":"instagram",
-
-      "name":"Instagram Auto Posting",
-
-      "version":"1.0",
-
-      "file":"robots/instagram.json"
+      "id": "marketplace-property"
+    },
+    {
+      "id": "marketplace-lokasi"
+    },
+    {
+      "id": "marketplace-hapus-duplikat"
+    },
+    {
+      "id": "marketplace-hapus-tawarkan-ulang"
+    },
+    {
+      "id": "marketplace-perbarui-tawaran"
+    },
+    {
+      "id": "group-auto-export"
+    },
+    {
+      "id": "group-export-all"
+    },
+    {
+      "id": "group-autoposting"
+    },
+    {
+      "id": "group-join-by-data"
+    },
+    {
+      "id": "group-join-by-keyword"
+    },
+    {
+      "id": "fanpage-auto-create"
+    },
+    {
+      "id": "fanpage-reel"
+    },
+    {
+      "id": "fanpage-story"
+    },
+    {
+      "id": "fanpage-event-daily"
+    },
+    {
+      "id": "fanpage-event-weekly"
     }
-
   ]
 }
