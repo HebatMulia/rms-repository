@@ -1,0 +1,27 @@
+{
+  "version": 1,
+
+  "robots": [
+
+    {
+      "id":"facebook-marketplace",
+
+      "name":"Facebook Marketplace",
+
+      "version":"1.0",
+
+      "file":"robots/facebook-marketplace.json"
+    },
+
+    {
+      "id":"instagram",
+
+      "name":"Instagram Auto Posting",
+
+      "version":"1.0",
+
+      "file":"robots/instagram.json"
+    }
+
+  ]
+}
