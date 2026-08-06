@@ -2,11 +2,12 @@
   "robots": [
     {
       "id": "auto-save-number",
+      "version": 1,
       "name": "Auto Save Number",
       "description": "Simpan nomor WhatsApp otomatis",
-      "icon": "riContactsBook2Line",
       "category": "WhatsApp",
-      "workflow": "Auto Save Number 1.2.automa (1).json"
+      "icon": "riContactsBook2Line",
+      "workflow": "Auto Save Number 1.2.automa.json"
     }
   ]
 }
