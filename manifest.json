@@ -2,7 +2,7 @@
   "robots": [
     {
       "id": "auto-save-number",
-      "version": 1,
+      "version": "1.0.0",
       "name": "Auto Save Number",
       "description": "Simpan nomor WhatsApp otomatis",
       "category": "WhatsApp",
