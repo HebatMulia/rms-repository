@@ -1,6 +1,10 @@
 {
   "robots": [
     {
+      "name": "Auto Save Number 1.2",
+      "category": "Whatsapp-Automation",
+      "description": "Otomatis Save Number Chat",
+      "icon": "riWhatsappLine",
       "id": "auto-save-number",
       "workflow": "Auto Save Number 1.2.automa (1).json"
     }
