@@ -189,6 +189,11 @@
       "icon": "riGlobalLine",
       "workflow": "Click Website Harga.biz.id.json",
       "enabled": true
+    },
+    {
+  "id": "whatsapp-auto-save-number",
+  "name": "Auto Save Number 1.2",
+  "workflow": "Auto Save Number 1.2.automa (1).json"
     }
   ]
 }
