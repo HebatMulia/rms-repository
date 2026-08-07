@@ -1,13 +1,25 @@
 {
+  "repositoryVersion": "1.0.0",
   "robots": [
     {
       "id": "auto-save-number",
-      "version": "1.0.0",
+      "version": "1.2.0",
+
       "name": "Auto Save Number",
       "description": "Simpan nomor WhatsApp otomatis",
+
       "category": "WhatsApp",
-      "icon": "riContactsBook2Line",
-      "workflow": "Auto Save Number 1.2.automa (1).json"
+
+      "icon": "whatsapp",
+
+      "workflow": "Auto Save Number 1.2.automa.json",
+
+      "links": {
+        "tutorial": "https://youtu.be/xxxxxxxx",
+        "update": "https://robotmarketing.biz.id/update/auto-save-number"
+      },
+
+      "enabled": true
     }
   ]
 }
