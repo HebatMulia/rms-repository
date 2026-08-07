@@ -1,25 +1,29 @@
 {
-  "repositoryVersion": "1.0.0",
-  "robots": [
+  "id": "auto-save-number",
+  "version": "1.2.0",
+  "name": "Auto Save Number",
+  "description": "Simpan nomor WhatsApp otomatis",
+  "icon": "whatsapp",
+  "workflow": "Auto Save Number 1.2.automa.json",
+
+  "actions": [
     {
-      "id": "auto-save-number",
-      "version": "1.2.0",
-
-      "name": "Auto Save Number",
-      "description": "Simpan nomor WhatsApp otomatis",
-
-      "category": "WhatsApp",
-
-      "icon": "whatsapp",
-
-      "workflow": "Auto Save Number 1.2.automa.json",
-
-      "links": {
-        "tutorial": "https://youtu.be/xxxxxxxx",
-        "update": "https://robotmarketing.biz.id/update/auto-save-number"
-      },
-
-      "enabled": true
+      "id": "tutorial",
+      "title": "Tutorial Video",
+      "icon": "riYoutubeLine",
+      "url": "https://www.youtube.com/@RobotMarketingIndonesia"
+    },
+    {
+      "id": "update",
+      "title": "Cek Update",
+      "icon": "riDownloadCloud2Line",
+      "url": "https://robotmarketing.biz.id/update/auto-save-number"
+    },
+    {
+      "id": "remote",
+      "title": "Remote Please",
+      "icon": "riCustomerService2Line",
+      "url": "https://wa.me/6282320002340"
     }
   ]
 }
