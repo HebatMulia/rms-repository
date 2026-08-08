@@ -33,19 +33,25 @@
       "workflow": "Auto Save Number 1.2.automa.json",
 
       "actions": [
-        {
-          "template": "tutorial",
-          "url": "https://www.youtube.com/@RobotMarketingIndonesia"
-        },
-        {
-          "template": "update",
-          "url": "https://robotmarketing.biz.id/update/auto-save-number"
-        },
-        {
-          "template": "remote",
-          "url": "https://wa.me/6282320002340"
-        }
-      ]
+  {
+    "id": "tutorial",
+    "title": "Tutorial Video",
+    "icon": "riYoutubeLine",
+    "url": "https://www.youtube.com/@RobotMarketingIndonesia"
+  },
+  {
+    "id": "update",
+    "title": "Cek Update",
+    "icon": "riDownloadCloud2Line",
+    "url": "https://robotmarketing.biz.id/update/auto-save-number"
+  },
+  {
+    "id": "remote",
+    "title": "Remote Please",
+    "icon": "riCustomerService2Line",
+    "url": "https://wa.me/6282320002340"
+  }
+]
     }
   ]
 }
